@@ -1,0 +1,3 @@
+C:/Users/fanzi/OneDrive/CODE/CODE/C++_code/2025/cmake-build-debug/CMakeFiles/2025.dir
+C:/Users/fanzi/OneDrive/CODE/CODE/C++_code/2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fanzi/OneDrive/CODE/CODE/C++_code/2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
