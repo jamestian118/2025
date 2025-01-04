@@ -1,9 +1,10 @@
 #include <iostream>
 
-// This is a single comment about our main function.
-// Our function prints text to the console.
 int main()
 {
-    std::cout << "Hello, World" << std::endl;
+
+    using namespace std;
+
+    cout << "Hi there, I'm Shujia Huang from Shenzhen, Guangdong, China" << endl;
     return 0;
 }
